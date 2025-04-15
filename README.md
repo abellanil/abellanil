@@ -4,7 +4,7 @@
 - ## 🔧 Technologies & Tools
 
 - **Languages:** Python, Java, C, VB.Net, Html / css, JavaScript
-- **Frameworks:** React, Node.js, Django, Spring Boot
+- **Frameworks:** Django
 - **Tools:** Git, Visual Studio, VS Code
 - **Databases:** MySQL, MongoDB
 
